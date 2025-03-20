@@ -16,5 +16,6 @@ dos fuentes:
 • Instituto Nacional de Estadística y Geografía (INEGI).
 La base de datos consiste en defunciones registradas por suicidio por entidad federativa
 y grupos de edad según sexo, desde el año 2010 a 2023.
+
 • Portal de datos abiertos de México.
 Brinda información de los pacientes atendidos de primera vez por consumo de sustancias y otros problemas de salud mental en 2024.
